@@ -11,7 +11,6 @@ print("Min # of operations to reach {} char: {}".format(n, minOperations(n)))
 
 n = 12
 print("Min # of operations to reach {} char: {}".format(n, minOperations(n)))
-=======
 0-main
 """
 pascal_triangle = __import__('0-pascal_triangle').pascal_triangle
